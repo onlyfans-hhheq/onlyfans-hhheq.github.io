@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Roboto-Regular.ttf) format('truetype');
+}
+
+body{
+    background-color: #ffffff;  /*0B1215 - obsydian black*/
+    color: #242529; /* text color */
+    font-family: Roboto;
+}
+
+.container {
+    display: flex;
+
+}
